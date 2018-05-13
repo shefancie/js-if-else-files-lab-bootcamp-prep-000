@@ -16,4 +16,4 @@ if (index.height === 70) {
     console.log("The name is correct")
 } else {
     console.log("Expected the name to be Susan")
-}
+}s
